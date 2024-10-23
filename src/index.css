@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.active{
+    background-color: blue;
+    color: #fff;
+}
+
+.content__right button{
+    font-size: 16px;
+    font-weight: 400;
+    border: 1px solid ;
+    padding: 5px 20px;
+    border-radius: 10px;
+}
+.content__right h2{
+    font-size: 20px;
+    font-weight: 600;
+}
